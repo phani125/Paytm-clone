@@ -15,4 +15,4 @@
 
 ## Time taken:
 
-- I took 24hrs to build from scratch working atleast 2hrs per day for a 10days and I took more time for responsive and image alignments with preview response on hovering  the image
+- I have taken 24hrs to build from scratch working atleast 2hrs per day for a 10days and I took more time for responsive and image alignments with preview response on hovering  the image
